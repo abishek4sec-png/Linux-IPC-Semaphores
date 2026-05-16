@@ -92,6 +92,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o ,$ ipcs
+
 <img width="840" height="1104" alt="image" src="https://github.com/user-attachments/assets/a58d6161-3134-4a80-9e56-61cca806ad7a" />
 
 
